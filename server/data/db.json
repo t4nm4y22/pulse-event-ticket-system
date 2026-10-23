@@ -1,0 +1,170 @@
+{
+  "events": [
+    {
+      "id": "EVT-401",
+      "title": "DHH Cypher Arena: Seedhe Maut & Underground Live",
+      "category": "Music & Hip-Hop",
+      "date": "2026-11-18",
+      "time": "19:30 IST",
+      "venue": "Zero Mile Open Air Amphitheatre",
+      "city": "Nagpur",
+      "organizer": "Spitfire Live Nation",
+      "banner": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=900&q=80",
+      "description": "High-octane Desi Hip-Hop concert with live moshpits, turntablism, and backstage artist cyphers.",
+      "tiers": [
+        {
+          "name": "Fan Pit Pass",
+          "price": 999,
+          "capacity": 120,
+          "sold": 42
+        },
+        {
+          "name": "VIP Elevate Deck",
+          "price": 2499,
+          "capacity": 50,
+          "sold": 21
+        },
+        {
+          "name": "Backstage All-Access",
+          "price": 4999,
+          "capacity": 15,
+          "sold": 6
+        }
+      ]
+    },
+    {
+      "id": "EVT-402",
+      "title": "NextGen Full-Stack & AI Cloud Summit 2026",
+      "category": "Tech & Dev",
+      "date": "2026-11-28",
+      "time": "10:00 IST",
+      "venue": "MIHAN Convention Center",
+      "city": "Nagpur",
+      "organizer": "Central India Dev Guild",
+      "banner": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=900&q=80",
+      "description": "Hands-on system architecture keynotes, live hackathon arena, and recruiter networking lounges.",
+      "tiers": [
+        {
+          "name": "Student Delegate",
+          "price": 499,
+          "capacity": 200,
+          "sold": 88
+        },
+        {
+          "name": "Pro Engineer Pass",
+          "price": 1499,
+          "capacity": 100,
+          "sold": 34
+        },
+        {
+          "name": "Founder VIP Lounge",
+          "price": 3499,
+          "capacity": 30,
+          "sold": 12
+        }
+      ]
+    },
+    {
+      "id": "EVT-403",
+      "title": "Valorant & CS2 LAN Invitational Finals",
+      "category": "Esports & Gaming",
+      "date": "2026-12-06",
+      "time": "14:00 IST",
+      "venue": "Suresh Bhat Indoor Arena",
+      "city": "Nagpur",
+      "organizer": "FragFest India",
+      "banner": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=900&q=80",
+      "description": "5v5 tactical shooter LAN championship on 360Hz rigs with live shoutcasting and pro hardware giveaways.",
+      "tiers": [
+        {
+          "name": "Arena Bleachers",
+          "price": 399,
+          "capacity": 300,
+          "sold": 145
+        },
+        {
+          "name": "Floor Front Row",
+          "price": 1199,
+          "capacity": 80,
+          "sold": 51
+        },
+        {
+          "name": "Player Paddock Pass",
+          "price": 2799,
+          "capacity": 25,
+          "sold": 11
+        }
+      ]
+    },
+    {
+      "id": "EVT-404",
+      "title": "Octagon Fight Night: Pro MMA Championship",
+      "category": "Sports & MMA",
+      "date": "2026-12-19",
+      "time": "20:00 IST",
+      "venue": "Divisional Sports Complex",
+      "city": "Mumbai",
+      "organizer": "IronCage Promotions",
+      "banner": "https://images.unsplash.com/photo-1555597673-b21d5c935865?auto=format&fit=crop&w=900&q=80",
+      "description": "10 sanctioned pro MMA bouts featuring featherweight and lightweight title contenders inside the steel cage.",
+      "tiers": [
+        {
+          "name": "Upper Bowl",
+          "price": 899,
+          "capacity": 250,
+          "sold": 90
+        },
+        {
+          "name": "Cage Side Ringside",
+          "price": 3999,
+          "capacity": 40,
+          "sold": 28
+        }
+      ]
+    }
+  ],
+  "tickets": [
+    {
+      "ticketId": "PLS-353528",
+      "paymentTxnId": "PAY-2793182",
+      "eventId": "EVT-401",
+      "eventTitle": "DHH Cypher Arena: Seedhe Maut & Underground Live",
+      "eventDate": "2026-11-18",
+      "eventTime": "19:30 IST",
+      "venue": "Zero Mile Open Air Amphitheatre, Nagpur",
+      "attendeeName": "Tanmay Pandey",
+      "attendeeEmail": "tanmay.pandey@pulse.live",
+      "tierName": "VIP Elevate Deck",
+      "quantity": 2,
+      "unitPrice": 2499,
+      "convenienceFee": 100,
+      "totalPaid": 5098,
+      "paymentMethod": "UPI Instant (GPay / PhonePe)",
+      "status": "CHECKED-IN",
+      "qrCode": "data:image/png;base64,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",
+      "bookedAt": "2026-10-23T19:13:13.194Z",
+      "checkedInAt": "2026-10-23T19:15:12.833Z"
+    },
+    {
+      "ticketId": "PLS-884210",
+      "paymentTxnId": "PAY-9920184",
+      "eventId": "EVT-401",
+      "eventTitle": "DHH Cypher Arena: Seedhe Maut & Underground Live",
+      "eventDate": "2026-11-18",
+      "eventTime": "19:30 IST",
+      "venue": "Zero Mile Open Air Amphitheatre, Nagpur",
+      "attendeeName": "Tanmay Pandey",
+      "attendeeEmail": "tanmay@pulse.live",
+      "tierName": "VIP Elevate Deck",
+      "quantity": 2,
+      "unitPrice": 2499,
+      "convenienceFee": 99,
+      "totalPaid": 5097,
+      "paymentMethod": "UPI Instant (GPay)",
+      "status": "CHECKED-IN",
+      "qrCode": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANwAAADcCAYAAAAbWs+BAAAAAklEQVR4AewaftIAABEcSURBVO3BsW4Fya5lwaWCDBo0+f9fSJMGPY3MjTbYSNRR3sYbRnz9/GKtdcXDWuuah7XWNQ9rrWu++Qe34KbqZOIWnKhOlFvwSdWJcgtUdaLcgkl18oZboKqTiVvwX1KdTNyCSXVywi24qTpRD2utax7WWtc8rLWu+eZfVCef5BZM3AJVnSi34ER1otyCSXWi3ALlFqjq5ER18oZb8JeqE+UWTKqTE27BxC044Rao6uREdfJJbsHkYa11zcNa65qHtdY13xxyC05UJ2+4BSfcgkl1otwC5RZMqpNPcgtUdaLcgr9UnSi3QFUnyi1QboGqTibViXILJtXJxC34JLfgRHVy4mGtdc3DWuuah7XWNd/8x1Unyi1Q1ckb1cnELVBugapOlFugqhPlFpyoTpRbMHELVHWiqpO/5Bao6kS5BW+4Bao6UW6Bqk7+Sx7WWtc8rLWueVhrXfPNf0x1otyCE27BG9WJqk6UW3DCLZhUJ8ot+CS3YFKdnKhOJm6BcgtUdXLCLThRnfyXPay1rnlYa13zsNa65ptD1clN1cnELVDViXILVHWi3ALlFqjqZOIWTKqTN6qTE26Bqk5OVCcTt+BEdfJGdaLcgr9Unfylh7XWNQ9rrWse1lrXfPMv3IKb3AJVnSi3QFUnyi1Q1YlyC1R1otyCE9WJcgsmboGqTk64Bao6OeEWqOpEuQWqOplUJ8otmLgFqjpRboGqTk64Bao6mbgFNz2sta55WGtd87DWuuabf6hO/suqE+UWqOpkUp0ot0BVJ8ot+C+pTt6oTibVyaQ6UW7BxC34pOpEuQWqOplUJ/9LD2utax7WWtc8rLWu+fr5hXALVHXySW6Bqk6UW3CiOpm4BTdVJ8otUNWJcgv+l6qTiVugqhPlFkyqE+UWqOpk4hZMqhPlFpyoTiZuwYnqZPKw1rrmYa11zcNa65qvn18M3IJJdaLcgkl1MnEL/lJ1otyCSXWi3IJJdfKGW3CiOjnhFnxSdaLcgpuqE+UWvFGdKLdgUp2ceFhrXfOw1rrmYa11zdfPL15wC/6XqhPlFpyoTpRbcFN1MnELVHXySW7BpDo54RacqE6UW6CqkxNuwYnqRLkFk+pEuQWqOpk8rLWueVhrXfOw1rrmm0NugapOJm6Bqk6UW6CqE+UWTNwCVZ1M3IJJdaLcgkl1MnELVHWi3II33AJVnSi3QFUnf6k6+SS3QFUnk+pEuQWqOlFugapOlFtwwi1Q1Yl6WGtd87DWuuZhrXXNN//gFkyqE+UWTKoT5Rao6uREdfJJboGqTt5wC1R1otyCT6pOlFtwojpRboFyC96oTpRboKqTE27BpDqZuAWqOlFugapOlFswqU4mD2utax7WWtc8rLWu+fr5xR9yC1R1otwCVZ1M3IJPqk6UW6Cqk4lboKoT5RacqE4mbsEb1YlyC1R1otwCVZ2ccAtUdaLcAlWdTNyCSXVywi04UZ1M3AJVnaiHtdY1D2utax7WWtd88y/cAlWdKLdgUp0ot0BVJyeqE+UWTKoT5RaccAv+l9wCVZ284Ra84Ra84Rao6uREdaLcghNuwSe5Bao6mTysta55WGtd87DWuubr5xfCLVDViXILVHXyhlugqpM33IIT1YlyC1R1otwCVZ0ot0BVJxO34JOqE+UWqOpEuQWqOvkkt0BVJ8ot+EvViXILVHUycQsm1YlyC1R1oh7WWtc8rLWueVhrXfP18wvhFkyqk4lboKoT5Rao6mTiFqjq5A234ER1csItmFQnyi34pOpk4hZMqpMTbsGkOlFugapOTrgFqjpRbsGkOlFuwaQ6UW7BpDqZPKy1rnlYa13zsNa65uvnFwO3YFKdKLdgUp1M3AJVnbzhFqjqZOIWnKhOTrgFn1SdKLdAVSfKLZhUJ2+4BZPqZOIWnKhOJm6Bqk6UW6CqE+UWTKoT5Rao6kQ9rLWueVhrXfOw1rrmm39wC064Bao6UW6BcgtUdXLCLThRnUzcgkl1MnELPqk6UW6Bqk5OuAWqOpm4BZPq5JPcghPViXILVHWiqhPlFqjq5A234MTDWuuah7XWNQ9rrWu+eak6UW6Bqk4mboGqTpRbMKlOlFug3IJJdXLCLZhUJ8otUNWJcguUW/BJ1cmJ6kS5BRO3QFUnJ6oT5Rao6kS5Bao6mbgFb1QnJ9yCycNa65qHtdY1D2uta745VJ1MqpOJW3CiOlFugXILVHVywi1Q1cmJ6kS5BZ9UnSi3QFUnqjqZuAWT6uREdaLcAlWdKLdAVSeqOplUJ29UJxO3QFUnyi2YVCeTh7XWNQ9rrWse1lrXfHPILZhUJ5Pq5Ca3YFKdKLdgUp0ot+CEW6CqkxPViXIL3qhOJtWJcgtUdfKGW6Cqk4lb8IZboKoTVZ2cqE5OPKy1rnlYa13zsNa65ptD1ckJt+CN6mRSndzkFqjqZOIWqOpEuQUnqpNJdTJxC/5SdfJJboGqTk64BZ9UnbzxsNa65mGtdc3DWuuabw65Bao6mVQnJ9wC5RZM3AJVnfyl6mTiFqjqRLkFqjpRbsEnuQUn3IJJdaLcAlWdKLdgUp0ot0BVJ8otmFQnk+pEuQWqOlFugapOJm6Bqk7Uw1rrmoe11jUPa61rvn5+8YJb8F9WnSi3YFKdKLdgUp1M3IJJdaLcgk+qTiZuwaQ6UW6Bqk6UW3CiOlFuwf8l1Yl6WGtd87DWuuZhrXXN188vhFswqU4mboGqTk64BSeqE+UW/KXq5IRbMKlOlFugqpMTbsGJ6uQNt+BEdXLCLXijOjnhFqjq5JMe1lrXPKy1rnlYa13zzT9UJ3/JLVDVyaQ6OVGdKLdgUp2ccAtUdXKiOnnDLVDVyYnq5IRbMKlOlFvwSdWJcgvecAtUdXLCLVDVyYmHtdY1D2utax7WWtd88y/cgk+qTt5wC1R1cqI6mbgFqjpR1YlyCybViXILVHVyojo5UZ0ot2BSnbxRnSi3QLkFqjpRbsGJ6kS5BZPq5IRb8EkPa61rHtZa1zysta75+vmFcAtUdaLcgv+l6mTiFqjqZOIWTKoT5Rao6uST3IJPqk4mboGqTt5wC1R18klugapOlFvwv1SdTB7WWtc8rLWueVhrXfPNP1Qnyi1Q1YlyCybVycQtOOEWqOrkhFugqhPlFii3QFUnE7dAVScTt2BSnSi3QFUnJ9wCVZ0ot2BSnSi3YOIWqOrkpupEuQWqOlFuwaQ6UW6BcgtUdaIe1lrXPKy1rnlYa13zzT+4Bao6UW7BpDqZuAWqOpm4BRO3QFUnyi1Q1YlyC95wC1R1MnELTrgFb7gFqjpRbsEnVScTt+CN6kS5Bao6uak6UW7B5GGtdc3DWuuah7XWNV8/v3jBLThRnbzhFqjqZOIWvFGdKLdgUp1M3II3qhPlFqjqZOIWqOpEuQWqOnnDLVDVycQtUNWJcgtOVCfKLZhUJ8otUNXJGw9rrWse1lrXPKy1rvn6+cUBt0BVJxO34I3qZOIWTKqTiVugqpOJW6CqE+UWqOrkhFugqpOJW/BJ1ckbbsGkOvlLbsGJ6mTiFqjqRLkFk+pEPay1rnlYa13zsNa65psPcwsm1ckJt+BEdTJxC1R1MnELVHUyqU7eqE6UWzCpTpRboKoT5Rao6kS5BSeqkxNugapOJm7BpDpR1YlyC1R1otyCmx7WWtc8rLWueVhrXfPNv3ALPsktmFQnqjpRboGqTpRboKqTiVugqpOJW6Cqk4lboKqTiVvwSW7BxC1Q1YlyC/6XqpM3qpM3qhPlFqjq5MTDWuuah7XWNQ9rrWu++Qe3QFUnyi04UZ1M3ALlFqjqRFUnJ9wCVZ2cqE6UW3CiOlFugapOJtWJcguUW6Cqk4lboKoT5Rao6mTiFqjqRLkFJ9wCVZ1M3IJJdaLcAlWdTNwCVZ0ot0BVJ5OHtdY1D2utax7WWtd88w/ViXILJm6Bqk6UW/CGW6CqE+UWqOrkhFugqhPlFqjqRLkFqjo54Ra8UZ1M3AJVnZxwC1R1oqoT5Rao6kS5BcotmLgFJ6oT5RZM3AJVnfylh7XWNQ9rrWse1lrXfP38QrgFqjqZuAWT6mTiFqjqRLkFk+rkDbdAVSef5Bao6kS5Bao6UW7BX6pO3nALTlQnE7fgRHWi3AJVnUzcgkl1csItUNWJelhrXfOw1rrmYa11zTd/zC044Rao6kS5BcoteKM6mbgFqjpRbsGkOlFugapOlFugqpOJW6CqkxNugapOJm6Bqk5OuAUnqpMT1YlyC1R1oqoT5RZM3IJJdTJ5WGtd87DWuuZhrXXN188vBm7BpDpRbsGkOpm4BZPqRLkFqjo54Rao6kS5BZPq5JPcAlWdKLfgRHXySW7BpDpRboGqTj7JLThRnSi3QFUnyi14ozpRD2utax7WWtc8rLWu+fr5hXALJtWJcgsm1YlyC05UJ8otUNXJxC2YVCcTt0BVJ8otmFQnyi14ozpRboGqTiZugapOJm7BpDpRboGqTm5yCybVyRtugapOTjysta55WGtd87DWuubr5xcH3AJVnSi3YFKdKLdAVScn3AJVnZxwC1R18l/mFqjq5IRboKoT5Rao6mTiFkyqk4lboKqTiVugqpOJW/BJ1YlyCybViXpYa13zsNa65mGtdc3Xzy+EWzCpTpRb8JeqE+UWqOrkhFvwSdWJcgtUdaLcghPViXILVHUycQtUdaLcAlWdfJJboKqTiVswqU6UW6Cqk4lbcKI6UW6Bqk6UW6CqE/Ww1rrmYa11zcNa65qvn18M3IJJdfKGW6CqE+UWqOrkL7kFqjpRbsGkOpm4Bao6ecMtUNXJxC04UZ1M3AJVnZxwC1R1otyCN6oT5Rao6mTiFqjqRLkFqjqZPKy1rnlYa13zsNa65uvnFy+4Bao6mbgFk+pk4hZ8UnWi3AJVnUzcAlWdvOEWfFJ18oZb8JeqkxNugapOlFvwSdWJcgsm1cnkYa11zcNa65qHtdY1Xz+/+A9xCybVycQtmFQnyi1Q1YlyC1R1otyCSXWi3AJVnSi3QFUnJ9yCT6pOlFugqpMTboGqTiZuwRvVyQm34ER1cuJhrXXNw1rrmoe11jXf/INbcFN1oqqTE27BCbdAVSfKLZi4BSfcAlWdvOEWqOpkUp3c5Bao6mTiFqjqRFUnJ9yCiVugqpNJdTJxC1R1MnlYa13zsNa65mGtdc03/6I6+SS34A234ER18kZ1MnEL3nALTlQnJ9wCVZ0ot+ANt0BVJ8otUNXJxC1Q1YlyC96oTk64Bao6UdWJcgtUdaIe1lrXPKy1rnlYa13zzSG34ER18oZbMKlOJm7Biepk4hao6kS5BRO3QFUnyi1QbsEnuQVvVCcTt2DiFpxwC1R1otyCiVvwl9wCVZ1MHtZa1zysta55WGtd881/XHWi3ALlFpyoTpRbMHELJm6Bqk6UW6Cqk0l1csItUNXJxC1Q1YlyC064BSeqE+UWqOpk4ha8UZ0ot0BVJ8otmFQnyi1Q1Yl6WGtd87DWuuZhrXXNN/+fq06UW6CqE+UWqOpEuQUn3AJVnUzcAlWdnKhO3nALVHWi3AJVnSi3QFUnE7dAVSfKLVDViXILJtWJcgtUdTJxC048rLWueVhrXfOw1rrmm0PVyU1uwaQ6UW6Bqk6UW6CqE1WdKLdAVSfKLVDViXIL3nALTrgFk+pkUp0ot0BVJ5PqRLkFE7dAVScTt2DiFkzcgjfcAlWdKLdg8rDWuuZhrXXNw1rrmm/+hVtwk1swqU4m1ckJt2BSnSi3QFUnyi1Q1YlyCyZuwaQ6OVGdTNwCVZ1M3AJVnSi3QFUnf6k6mbgFk+pEuQVvVCeTh7XWNQ9rrWse1lrXfP38Yq11xcNa65qHtdY1D2uta/4fbMsdHXIxI2QAAAAASUVORK5CYII=",
+      "bookedAt": "2026-10-23T18:53:27.558Z",
+      "checkedInAt": "2026-10-23T19:08:11.563Z"
+    }
+  ]
+}
